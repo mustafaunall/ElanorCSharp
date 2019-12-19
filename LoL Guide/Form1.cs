@@ -39,7 +39,7 @@ namespace LoL_Guide
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show($"{sihirdarLevel(textBox1.Text)} Levelsin kanka :)");
+            MessageBox.Show($"{sihirdarLevel(textBox1.Text)} osuruklu balon :)");
         }
     }
 }
