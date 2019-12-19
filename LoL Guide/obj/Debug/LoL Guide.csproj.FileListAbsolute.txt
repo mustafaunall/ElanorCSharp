@@ -7,3 +7,12 @@ C:\Users\YUPANA\Desktop\C# Projects\LoL Guide\LoL Guide\obj\Debug\LoL_Guide.Prop
 C:\Users\YUPANA\Desktop\C# Projects\LoL Guide\LoL Guide\obj\Debug\LoL Guide.csproj.GenerateResource.cache
 C:\Users\YUPANA\Desktop\C# Projects\LoL Guide\LoL Guide\obj\Debug\LoL Guide.exe
 C:\Users\YUPANA\Desktop\C# Projects\LoL Guide\LoL Guide\obj\Debug\LoL Guide.pdb
+C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\bin\Debug\LoL Guide.exe.config
+C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\bin\Debug\LoL Guide.exe
+C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\bin\Debug\LoL Guide.pdb
+C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.csprojAssemblyReference.cache
+C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL_Guide.Form1.resources
+C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL_Guide.Properties.Resources.resources
+C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.csproj.GenerateResource.cache
+C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.exe
+C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.pdb
