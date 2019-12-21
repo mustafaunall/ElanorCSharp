@@ -16,8 +16,7 @@ namespace LoL_Guide
     public partial class Form1 : Form
     {
         public static string url;
-        public string api_key = "RGAPI-9b7828f4-0b46-4b12-b01e-d1e5211338de";
-        public string lol_nick = "Muti Sama";
+        public string api_key = "RGAPI-9d035eb3-2fbb-47e7-8cdc-06c145bd6f34";
         PictureBox[] boxes = new PictureBox[100];
         int siradaki = 0, locationX = 0, locationY = 0;
         private string sihirdarLevel(string _nick)
@@ -39,6 +38,7 @@ namespace LoL_Guide
         private void sampiyonFotoEkle(string _sampiyon)
         {
             boxes[siradaki] = new PictureBox();
+            boxes[siradaki].Name = _sampiyon;
             boxes[siradaki].Size = new Size(80, 80);
             boxes[siradaki].Location = new Point(0 + locationX, 0 + locationY);
             WebClient wc = new WebClient();
@@ -48,19 +48,25 @@ namespace LoL_Guide
             boxes[siradaki].Image = Image.FromStream(stream);
             boxes[siradaki].SizeMode = PictureBoxSizeMode.StretchImage;
             locationX += 105;
+            boxes[siradaki].Click += sampiyonClick; // Tıklanan pictureBox dizisindeki o elemanın Click olayında sampiyonClick function çalışsın.
             panel1.Controls.AddRange(boxes);
+        }
+        private void sampiyonClick(object sender, EventArgs e)
+        {
+            PictureBox gelenResim = sender as PictureBox; //capsulation yolu ile gelen nesneyi picturebox nesne tipine dönüştürdüm.
+            ChampInfo champForm = new ChampInfo();
+            champForm.champName = gelenResim.Name;
+            champForm.Show();
         }
         private void altaGec()
         {
             locationX = 0;
             locationY += 100;
         }
-
-        public Form1()
+        private void button1_Click(object sender, EventArgs e)
         {
-            InitializeComponent();
+            MessageBox.Show($"{sihirdarLevel(textBox1.Text)} levelsin :)");
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
             sampiyonFotoEkle("Akali");
@@ -93,10 +99,9 @@ namespace LoL_Guide
             sampiyonFotoEkle("Braum");
             sampiyonFotoEkle("Pyke");
         }
-
-        private void button1_Click(object sender, EventArgs e)
+        public Form1()
         {
-            MessageBox.Show($"{sihirdarLevel(textBox1.Text)} levelsin :)");
+            InitializeComponent();
         }
     }
 }

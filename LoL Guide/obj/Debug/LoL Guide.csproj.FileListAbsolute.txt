@@ -16,3 +16,4 @@ C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL_Guide.Properties.Re
 C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.csproj.GenerateResource.cache
 C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.exe
 C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.pdb
+C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL_Guide.ChampInfo.resources
