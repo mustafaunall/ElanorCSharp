@@ -65,10 +65,11 @@ namespace LoL_Guide
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show($"{sihirdarLevel(textBox1.Text)} levelsin :)");
+
         }
         private void Form1_Load(object sender, EventArgs e)
         {
+            this.BackColor = Color.FromArgb(28, 33, 35);
             sampiyonFotoEkle("Akali");
             sampiyonFotoEkle("Aatrox");
             sampiyonFotoEkle("Gangplank");
