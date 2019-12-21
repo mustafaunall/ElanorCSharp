@@ -17,3 +17,13 @@ C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.csproj.Genera
 C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.exe
 C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.pdb
 C:\Users\YUPANA\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL_Guide.ChampInfo.resources
+C:\Users\Ahmet Nail TAŞTAN\Desktop\ElanorCSharp\LoL Guide\bin\Debug\LoL Guide.exe.config
+C:\Users\Ahmet Nail TAŞTAN\Desktop\ElanorCSharp\LoL Guide\bin\Debug\LoL Guide.exe
+C:\Users\Ahmet Nail TAŞTAN\Desktop\ElanorCSharp\LoL Guide\bin\Debug\LoL Guide.pdb
+C:\Users\Ahmet Nail TAŞTAN\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.csprojAssemblyReference.cache
+C:\Users\Ahmet Nail TAŞTAN\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL_Guide.ChampInfo.resources
+C:\Users\Ahmet Nail TAŞTAN\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL_Guide.Form1.resources
+C:\Users\Ahmet Nail TAŞTAN\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL_Guide.Properties.Resources.resources
+C:\Users\Ahmet Nail TAŞTAN\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.csproj.GenerateResource.cache
+C:\Users\Ahmet Nail TAŞTAN\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.exe
+C:\Users\Ahmet Nail TAŞTAN\Desktop\ElanorCSharp\LoL Guide\obj\Debug\LoL Guide.pdb

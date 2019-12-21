@@ -21,6 +21,13 @@ namespace LoL_Guide
         private void ChampInfo_Load(object sender, EventArgs e)
         {
             label1.Text = champName;
+      
+            this.BackColor = Color.FromArgb(28, 33, 35);
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
