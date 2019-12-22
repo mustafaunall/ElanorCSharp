@@ -67,6 +67,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Api.cs" />
     <Compile Include="ChampInfo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -111,6 +112,81 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Fazie69-League-Of-Legends-Ezreal-Pulsefire.ico" />
+    <Content Include="resimler\Aatrox_Build.png" />
+    <Content Include="resimler\Aatrox_Rune.png" />
+    <Content Include="resimler\Aatrox_SkillSet.png" />
+    <Content Include="resimler\Ahri_Build.png" />
+    <Content Include="resimler\Ahri_Rune.png" />
+    <Content Include="resimler\Ahri_SkillSet.png" />
+    <Content Include="resimler\Akali_Build.png" />
+    <Content Include="resimler\Akali_Rune.png" />
+    <Content Include="resimler\Akali_SkillSet.png" />
+    <Content Include="resimler\Blitzcrank_Build.png" />
+    <Content Include="resimler\Blitzcrank_Rune.png" />
+    <Content Include="resimler\Blitzcrank_SkillSet.png" />
+    <Content Include="resimler\Braum_Build.png" />
+    <Content Include="resimler\Braum_Rune.png" />
+    <Content Include="resimler\Braum_SkillSet.png" />
+    <Content Include="resimler\Caitlyn_Build.png" />
+    <Content Include="resimler\Caitlyn_Rune.png" />
+    <Content Include="resimler\Caitlyn_SkillSet.png" />
+    <Content Include="resimler\Ezreal_Build.png" />
+    <Content Include="resimler\Ezreal_Rune.png" />
+    <Content Include="resimler\Ezreal_SkillSet.png" />
+    <Content Include="resimler\Fizz_Build.png" />
+    <Content Include="resimler\Fizz_Rune.png" />
+    <Content Include="resimler\Fizz_SkillSet.png" />
+    <Content Include="resimler\Gangplank_Build.png" />
+    <Content Include="resimler\Gangplank_Rune.png" />
+    <Content Include="resimler\Gangplank_SkillSet.png" />
+    <Content Include="resimler\Gragas_Build.png" />
+    <Content Include="resimler\Gragas_Rune.png" />
+    <Content Include="resimler\Gragas_SkillSet.png" />
+    <Content Include="resimler\Irelia_Build.png" />
+    <Content Include="resimler\Irelia_Rune.png" />
+    <Content Include="resimler\Irelia_SkillSet.png" />
+    <Content Include="resimler\JarvanIV_Build.png" />
+    <Content Include="resimler\JarvanIV_Rune.png" />
+    <Content Include="resimler\JarvanIV_SkillSet.png" />
+    <Content Include="resimler\Kaisa_Build.png" />
+    <Content Include="resimler\Kaisa_Rune.png" />
+    <Content Include="resimler\Kaisa_SkillSet.png" />
+    <Content Include="resimler\Leblanc_Build.png" />
+    <Content Include="resimler\Leblanc_Rune.png" />
+    <Content Include="resimler\Leblanc_SkillSet.png" />
+    <Content Include="resimler\Leesin_Build.png" />
+    <Content Include="resimler\Leesin_Rune.png" />
+    <Content Include="resimler\Leesin_SkillSet.png" />
+    <Content Include="resimler\Lucian_Build.png" />
+    <Content Include="resimler\Lucian_Rune.png" />
+    <Content Include="resimler\Lucian_SkillSet.png" />
+    <Content Include="resimler\Nautilus_Build.png" />
+    <Content Include="resimler\Nautilus_Rune.png" />
+    <Content Include="resimler\Nautilus_SkillSet.png" />
+    <Content Include="resimler\Nocturne_Build.png" />
+    <Content Include="resimler\Nocturne_Rune.png" />
+    <Content Include="resimler\Nocturne_SkillSet.png" />
+    <Content Include="resimler\Pyke_Build.png" />
+    <Content Include="resimler\Pyke_Rune.png" />
+    <Content Include="resimler\Pyke_SkillSet.png" />
+    <Content Include="resimler\Renekton_Build.png" />
+    <Content Include="resimler\Renekton_Rune.png" />
+    <Content Include="resimler\Renekton_SkillSet.png" />
+    <Content Include="resimler\Riven_Build.png" />
+    <Content Include="resimler\Riven_Rune.png" />
+    <Content Include="resimler\Riven_SkillSet.png" />
+    <Content Include="resimler\Sejuani_Build.png" />
+    <Content Include="resimler\Sejuani_Rune.png" />
+    <Content Include="resimler\Sejuani_SkillSet.png" />
+    <Content Include="resimler\Thresh_Build.png" />
+    <Content Include="resimler\Thresh_Rune.png" />
+    <Content Include="resimler\Thresh_SkillSet.png" />
+    <Content Include="resimler\Vayne_Build.png" />
+    <Content Include="resimler\Vayne_Rune.png" />
+    <Content Include="resimler\Vayne_SkillSet.png" />
+    <Content Include="resimler\Vladimir_Build.png" />
+    <Content Include="resimler\Vladimir_Rune.png" />
+    <Content Include="resimler\Vladimir_SkillSet.png" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
