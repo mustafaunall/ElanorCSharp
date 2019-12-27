@@ -1,3 +1,3 @@
 # ElanorCSharp
 
-Selam bu projeye
+Ahmet Nail TAŞTAN Proje Ödevi
